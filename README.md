@@ -1,7 +1,7 @@
 # Dicoding Sentimen Analysis
 ###
 
-## KriteriaSubmission
+## Kriteria Submission
 * Kriteria 1: Data merupakan hasil scraping secara mandiri
 * Jumlah dataset minimal yang harus diperoleh adalah 3.000 sampel. 
 * Kriteria 2: Melakukan tahapan ekstraksi fitur dan pelabelan data
